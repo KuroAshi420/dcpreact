@@ -1,0 +1,25 @@
+.company{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.par > p{
+
+  font-size: 25px;
+  height: 150px;
+  border-style: solid;
+  border-color: transparent;
+  border-width:50%;
+  margin-bottom: 0;
+  color: #00CCB1;
+  line-height: 33px;
+}
+.svg {
+    padding-top: 3%;
+    padding-left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

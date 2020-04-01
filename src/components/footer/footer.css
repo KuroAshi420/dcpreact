@@ -1,0 +1,33 @@
+.footer{
+    border-top: 1px solid;
+    border-color: rgba(0,0,0,.03) ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    margin-top: 5%;
+}
+.prg {
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    color: #747474  ;
+    line-height: normal;
+    height: auto;
+    text-align: center;
+    width: auto;
+}
+.docplan{
+    margin-top: 0;
+    margin-bottom: 3%;
+    line-height: normal;
+    height: auto;
+    text-align: center;
+    width: auto;
+}
+span{
+    color: #3d83df;
+    
+}

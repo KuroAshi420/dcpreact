@@ -1,0 +1,50 @@
+.part1-two{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.row1{
+    padding-top: 8% ;
+}
+.row2{
+    padding-top: 5% ;
+}
+.office{
+    height: 350px ;
+    width: 33.33%;
+    background: #fff;
+    border: 1px solid rgba(0,0,0,.03);
+    border-radius: 6px;
+    overflow: hidden;
+    max-width: 311px;
+    position: relative;
+    display: block;
+    color: #747474;
+}
+.sous-img{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.sous-img > h3{
+font-size: 19px;
+}
+.button{
+    margin-top: 7%;
+    border-radius: 4px;
+    background: #3d83df;
+    color: #fff; 
+    text-align: center;
+    height: 30px;
+    font-size: 12px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.all{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
